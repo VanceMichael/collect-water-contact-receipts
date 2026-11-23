@@ -1,0 +1,12 @@
+{
+  "title": "支线船筏联络交接的补收与销号",
+  "sources": [
+    "/pier/leases.html",
+    "/pier/corrections.csv",
+    "/banks/morning.json",
+    "/banks/relay.json",
+    "/banks/transfer.json"
+  ],
+  "forms": [],
+  "range_sources": []
+}
